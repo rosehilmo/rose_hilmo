@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 second file!
-and another line
-second file
 new edit!
