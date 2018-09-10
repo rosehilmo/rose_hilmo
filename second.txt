@@ -1,2 +1,4 @@
 second file
-new edit! 
+new edit
+
+lets make a merge conflict! 
